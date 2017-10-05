@@ -9,7 +9,7 @@ class PreviousNotes extends Component {
     return (
       <div></div>
     )
-  }
+  } 
 }
 
 class App extends Component {
